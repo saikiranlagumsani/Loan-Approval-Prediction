@@ -44,7 +44,18 @@ We picked our dataset from kaggle.com
  
 
 ## **📌 Contributors**  
-👤 [Saikiran Lagumsani](https://github.com/saikiranlagumsani)   
+👤 [Vinirmith](https://github.com/vinirmith)
+👤 [Saikiran Lagumsani](https://github.com/saikiranlagumsani) 
+👤 [Keerthi]()
+👤 [Sravanthi manthena]() 
+👤 [Harsha]()
+👤 [Geetanjali]()
+
+
+
+
+
+
 
 ---
 
